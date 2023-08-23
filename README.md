@@ -18,7 +18,7 @@ I'm a passionate front-end developer with a keen eye for design and a love for c
 - CSS Frameworks (e.g., Bootstrap)
 - Web Performance Optimization
 <div>
- <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg">
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height="40" width="40">
 </div>
 
 ## Let's Connect
