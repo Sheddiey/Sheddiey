@@ -8,18 +8,20 @@ I'm a passionate front-end developer with a keen eye for design and a love for c
 - 💼 Currently working on Frontendmentor projects [Frontend mentor](https://www.frontendmentor.io/profile/Sheddiey)
 - 📫 How to reach me: [Email](shadrackcheruiyot429@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sheddiey/) | [X](https://twitter.com/sheddieynext)
  
-## Skills
-- HTML5, CSS3
-- JavaScript, ES6+
-- Responsive Web Design
-- User Interface (UI) Design
-- Version Control (Git)
-- Front-end Frameworks (e.g., React)
-- CSS Frameworks (e.g., Bootstrap)
-- Web Performance Optimization
+
 <div>
+ 
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-plain.svg" height="40" width="40">
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" height="40" width="40">
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" height="40" width="40">
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-plain.svg" height="40" width="40">
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" height="40" width="40">
  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height="40" width="40">
+ <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" height="40" width="40">
+ <img src=" " height="40" width="40">
+ 
 </div>
+
 
 ## Let's Connect
 
