@@ -18,7 +18,7 @@ I'm a passionate front-end developer with a keen eye for design and a love for c
  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" height="40" width="40">
  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" height="40" width="40">
  <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" height="40" width="40">
- <img src=" " height="40" width="40">
+ 
  
 </div>
 
