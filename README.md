@@ -3,7 +3,7 @@
 I'm a passionate front-end developer with a keen eye for design and a love for creating user-friendly, visually appealing web experiences. I enjoy turning ideas into reality through code and bringing responsive designs to life.
 
 ## About Me
-- 🌍 Location: Earth
+- 🌍 Planet: Earth
 - 🌱 I’m currently learning: Advanced CSS techniques and JavaScript frameworks
 - 💼 Currently working on Frontendmentor projects [Frontend mentor](https://www.frontendmentor.io/profile/Sheddiey)
 - 📫 How to reach me: [Email](shadrackcheruiyot429@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sheddiey/) | [X](https://twitter.com/sheddieynext)
