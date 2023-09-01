@@ -2,7 +2,7 @@
 
 I'm a passionate front-end developer with a keen eye for design and a love for creating user-friendly, visually appealing web experiences. I enjoy turning ideas into reality through code and bringing responsive designs to life.
 
-## About Me
+## About Me ![image title](https://rushter.com/counter.svg) Cache-Control: max-age=0, no-cache, no-store, must-revalidate
 - 🌍 Planet: Earth
 - 🌱 I’m currently learning: Advanced CSS techniques and JavaScript frameworks
 - 💼 Currently working on Frontendmentor projects [Frontend mentor](https://www.frontendmentor.io/profile/Sheddiey)
