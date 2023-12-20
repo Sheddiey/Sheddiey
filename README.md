@@ -4,8 +4,8 @@ I'm a passionate front-end developer with a keen eye for design and a love for c
 
 ## About Me
 - 🌍 Planet: Earth
-- 🌱 I’m currently learning: Advanced CSS techniques and JavaScript frameworks
-- 💼 Currently working on Frontendmentor projects [Frontend mentor](https://www.frontendmentor.io/profile/Sheddiey)
+- 🌱 I’m currently learning: backend using firebase
+- 💼 Frontendmentor projects [Frontend mentor](https://www.frontendmentor.io/profile/Sheddiey)
 - 📫 How to reach me: [Email](shadrackcheruiyot429@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sheddiey/) | [X](https://twitter.com/sheddieynext)
  
 
