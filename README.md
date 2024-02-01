@@ -1,6 +1,6 @@
 # Hi there👋 I'm Shadrack Cheruiyot
 
-I'm a passionate front-end developer with a keen eye for design and a love for creating user-friendly, visually appealing web experiences. I enjoy turning ideas into reality through code and bringing responsive designs to life.
+I'm a passionate web developer with a keen eye for design and a love for creating user-friendly, visually appealing web experiences. I enjoy turning ideas into reality through code and bringing responsive designs to life.
 
 ## About Me
 - 🌍 Planet: Earth
